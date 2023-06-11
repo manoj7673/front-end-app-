@@ -13,3 +13,7 @@ az ad sp create-for-rbac --name "manoj7673" --role contributor --scopes /subscri
   "galleryEndpointUrl": "https://gallery.azure.com/",
   "managementEndpointUrl": "https://management.core.windows.net/"
 }
+
+
+ git config --global user.email "manojreddyanugu@gmail.com"
+  git config --global user.name "manoj7673"
